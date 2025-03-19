@@ -1,0 +1,22 @@
+{
+  "display": {
+    "icon": {
+      "item": "pretzels-foods:salted-pretzel"
+    },
+    "title": {
+      "text": "Pretzel's Foods"
+    },
+    "description": {
+      "text": "Food recipes."
+    },
+    "background": "minecraft:textures/block/oak_planks.png",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "root": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

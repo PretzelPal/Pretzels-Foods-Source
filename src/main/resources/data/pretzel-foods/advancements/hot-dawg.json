@@ -1,0 +1,35 @@
+{
+  "parent": "pretzel-foods:better_ketchup",
+  "display": {
+    "icon": {
+      "item": "pretzels-foods:mustard-hotdog"
+    },
+    "title": {
+      "text": "Hot! Dawg.."
+    },
+    "description": {
+      "text": "A tasty meal, for a beautiful day."
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "condition_one": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "pretzel-foods:ketchup-hotdog-recipe"
+      }
+    },
+    "condition_two": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "pretzel-foods:mustard-hotdog-recipe"
+      }
+    }
+  },
+  "requirements": [
+    ["condition_one", "condition_two"]
+  ]
+}

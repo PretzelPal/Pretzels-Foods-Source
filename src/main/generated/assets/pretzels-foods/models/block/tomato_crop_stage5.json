@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/crop",
+  "textures": {
+    "crop": "pretzels-foods:block/tomato_crop_stage5"
+  }
+}

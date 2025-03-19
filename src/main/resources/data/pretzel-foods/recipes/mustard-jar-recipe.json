@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:honeycomb"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "pretzels-foods:salt"
+    },
+    {
+      "item": "pretzels-foods:empty-jar"
+    }
+  ],
+  "result": {
+    "item": "pretzels-foods:mustard-jar"
+  }
+}

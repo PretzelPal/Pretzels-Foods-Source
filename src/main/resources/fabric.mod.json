@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "pretzels-foods",
+	"version": "${version}",
+	"name": "Pretzel's Foods",
+	"description": "i like food",
+	"authors": [
+		"PretzelPal!"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/pretzels-foods/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.pretzel.pretzelsfoods.PretzelsFoods"
+		],
+		"client": [
+			"net.pretzel.pretzelsfoods.PretzelsFoodsClient"
+		],
+		"fabric-datagen": [
+			"net.pretzel.pretzelsfoods.PretzelsFoodsDataGenerator"
+		]
+	},
+	"mixins": [
+		"pretzels-foods.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.10",
+		"minecraft": "~1.20.4",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

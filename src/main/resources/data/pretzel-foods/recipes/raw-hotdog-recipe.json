@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "pretzels-foods:hotdog-bun"
+    },
+    {
+      "item": "pretzels-foods:raw-sausage"
+    }
+  ],
+  "result": {
+    "item": "pretzels-foods:raw-hotdog"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "item.pretzels-foods.raw-pretzel": "Raw Pretzel",
+  "item.pretzels-foods.cooked-pretzel": "Cooked Pretzel",
+  "item.pretzels-foods.salted-pretzel": "Salted Pretzel",
+  "item.pretzels-foods.dough": "Dough",
+  "item.pretzels-foods.salt": "Salt",
+  "item.pretzels-foods.tomato_seeds": "Tomato Seeds",
+  "item.pretzels-foods.tomato": "Tomato",
+  "item.pretzels-foods.ketchup-jar": "Ketchup Jar",
+  "item.pretzels-foods.ketchup-hotdog": "Ketchup Hot-Dog",
+  "item.pretzels-foods.mustard-hotdog": "Mustard Hot-Dog",
+  "item.pretzels-foods.raw-hotdog": "Raw Hot-Dog",
+  "item.pretzels-foods.cooked-hotdog": "Cooked Hot-Dog",
+  "item.pretzels-foods.hotdog-bun": "Hot-Dog Bun",
+  "item.pretzels-foods.raw-sausage": "Raw Sausage",
+  "item.pretzels-foods.cooked-sausage": "Cooked Sausage",
+  "item.pretzels-foods.mustard-jar": "Mustard Jar",
+  "item.pretzels-foods.empty-jar": "Empty Jar",
+
+  "itemgroup.pretzel": "Pretzel's Foods"
+}

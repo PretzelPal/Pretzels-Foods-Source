@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "pretzels-foods:tomato"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "pretzels-foods:empty-jar"
+    }
+  ],
+  "result": {
+    "item": "pretzels-foods:ketchup-jar"
+  }
+}

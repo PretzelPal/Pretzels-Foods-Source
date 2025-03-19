@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "pretzels-foods:cooked-hotdog"
+    },
+    {
+      "item": "pretzels-foods:ketchup-jar"
+    }
+  ],
+  "result": {
+    "item": "pretzels-foods:ketchup-hotdog"
+  }
+}
